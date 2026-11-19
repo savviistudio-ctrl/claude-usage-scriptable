@@ -2,12 +2,17 @@
 
 A [Scriptable](https://scriptable.app) script that shows your Claude subscription (Pro/Max) usage limits — the 5-hour session and weekly limits — as a Home Screen or Lock Screen widget.
 
+![Claude usage widget](images/widget-medium.png)
+
 ## What it shows
 - **5-hour** session usage %, with a bar and time until reset
 - **Weekly** usage %, with time until reset
 - **Weekly Opus / Sonnet** (Large widget, when your plan has them)
 
 Bars turn orange at 70% and red at 90%.
+
+## On the Home Screen
+![Home Screen with the Claude usage widget](images/homescreen-blurred.png)
 
 ## Setup
 1. Install **Scriptable** from the App Store.
